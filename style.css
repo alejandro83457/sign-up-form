@@ -91,3 +91,7 @@ input {
     width: 250px;
     padding: 5px;
 }
+
+.no-match {
+    color: red;
+}
